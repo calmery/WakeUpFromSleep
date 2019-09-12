@@ -1,4 +1,5 @@
 {
+  "name": "wake-up-from-sleep",
   "dependencies": {
     "bindings": "1.5.0"
   },
