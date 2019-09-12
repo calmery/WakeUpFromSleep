@@ -1,6 +1,6 @@
-#include <node.h>
 #include <IOKit/IOMessage.h>
 #include <IOKit/pwr_mgt/IOPMLib.h>
+#include <node.h>
 
 using v8::Context;
 using v8::Exception;
